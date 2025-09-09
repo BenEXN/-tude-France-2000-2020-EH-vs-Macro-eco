@@ -1,0 +1,15 @@
+domain,subdomain,control_variable,unit,B_limit,U_upper,latest_value,latest_year,source
+Climate,CO2 concentration,Atmospheric CO2,ppm,350,450,,,"PMC (Richardson 2023), SRC overview"
+Climate,Radiative forcing,Anthropogenic forcing,W/m^2,1.0,1.5,,,"PMC (Richardson 2023), SRC overview"
+Biosphere integrity (genetic),,Extinction rate,E/MSY,10,,,,PMC (Richardson 2023)
+Biosphere integrity (functional),,HANPP (share of Holocene NPP),% of Holocene NPP,10,,,,PMC (Richardson 2023)
+Land-system change,Global,Forest remaining vs potential,% of potential forest cover,75,,,,PMC (Richardson 2023)
+Freshwater (blue),,Deviation area vs preindustrial,% of land area,,,,,PMC (Richardson 2023)
+Freshwater (green),,Deviation area vs preindustrial,% of land area,,,,,PMC (Richardson 2023)
+Biogeochemistry (Nitrogen),,Intentional reactive N to agriculture,Tg N/yr,62,,,,PMC (Richardson 2023)
+Biogeochemistry (Phosphorus),Global,Riverine P to ocean,Tg P/yr,11,,,,PMC (Richardson 2023)
+Biogeochemistry (Phosphorus),Regional (erodible soils),Fertilizer P to erodible soils,Tg P/yr,6.2,,,,PMC (Richardson 2023)
+Ocean acidification,,Ω_arag (share of preindustrial),% of preindustrial,80,,,,PMC (Richardson 2023)
+Stratospheric ozone,,Total column ozone,DU,276,,,,PMC (Richardson 2023)
+Atmospheric aerosols,,Inter-hemispheric AOD difference,(unitless),0.10,0.25,,,PMC (Richardson 2023)
+Novel entities,,— (no single global control variable),n/a,,,,,SRC overview (status: transgressed)

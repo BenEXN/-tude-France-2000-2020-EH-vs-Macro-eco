@@ -1,0 +1,22 @@
+Domaine,Valeur_FR_2020,Seuil,Unité,Type,Score_0_2,Note_méthode
+Climat (GES trajectoire),376.0,269.5,MtCO2e,pression,0.7167553191489362,Trajectoire linéaire 1990→2050
+Atmosphère (CO2 ppm),414.0,350.0,ppm,pression,0.8454106280193237,PB global CO2=350 ppm
+Eau (WEI+),0.143,0.2,ratio,pression,1.3986013986013988,EEA WEI+ 20% (alerte)
+Azote (N),2.5,0.806,Mt N/an,pression,0.3224,PB N=62 Tg alloué (~1.3% arable)
+Phosphore (P),0.2,0.143,Mt P/an,pression,0.7149999999999999,PB P=11 Tg alloué (~1.3% arable)
+Air (PM2.5),11.9,5.0,µg/m³,pression,0.42016806722689076,OMS AQG 2021
+BII (intégrité biosphère),80.0,90.0,%,état,0.8888888888888888,Seuil BII=90%
+Océan acidification (Ωarag),2.9,2.75,index,pression,0.9482758620689655,Seuil global Ωarag ≥2.75
+Ozone stratosphérique (DU),320.0,276.0,DU,pression,0.8625,Seuil ~276 DU
+Land-use (habitats intacts),69.0,85.0,%,état,0.8117647058823529,Seuil ≥85% habitats intacts
+Extinctions (IUCN),,,-,neutre,1.0,Pas de seuil quantifié — neutre=1
+Entités nouvelles,,,-,neutre,1.0,Pas de seuil quantifié — neutre=1
+Empreinte matière (MF),918.0,458.32000000000005,Mt/an,pression,0.4992592592592593,Seuil Hickel=6.8 t/hab * pop 2020
+Population 2020 (info),67.4,,millions hab,info,,INSEE (population au 1er janv. 2020)
+PIB nominal 2020 (USD courants),2648000000000.0,,USD,info,,World Bank / Macrotrends
+PIB PPA 2020 (USD internationaux),4240000000000.0,,USD int.,info,,World Bank (PPP)
+Croissance PIB/hab 2020,-3.06,,%,info,,Macrotrends (variation vs 2019)
+Dividende citoyens (x+1),16522.687992892566,,USD / habitant,dividende,,DCIT = 22 000 × IED ; distribué l’année suivante (2021)
+Dividende État (x+1),1113629170720.959,,USD,dividende,,DETAT = DCIT × Population ; distribué l’année suivante (2021)
+Dividende Entreprises (x+1),994365404663.1709,,USD,dividende,,DENT = 50% × PIB nominal × IED (proxy) ; distribué l’année suivante (2021)
+TOTAL dividendes agrégés (x+1),2107994575384.13,,USD,total,,Somme: Dividende État + Dividende Entreprises ; DCIT est par habitant (non additionné)

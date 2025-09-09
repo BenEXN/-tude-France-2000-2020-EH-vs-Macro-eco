@@ -1,0 +1,21 @@
+Approche,Échelle,Indicateurs,Avantages,Limites,Exemple / Référence
+Fair share & local safe space,Bassin versant / local,Eau (cycle hydrologique),Combine équité globale et spécificités locales ; complémentaire à la gestion existante,"Méthodes encore expérimentales, besoin d'intégration avec données socio-éco","Zipper et al. (2019), Colombie"
+Revue systématique limites eau,Global -> local,Eau douce,"Synthèse de 35 études, propose des seuils locaux différenciés","Pas de standardisation, manque de liens socio-économiques","Bunsen, Berger & Finkbeiner (2021)"
+Comptabilité input-output,National/bassin,Eau douce,Permet de relier consommation nationale aux pressions sur bassins,Peut masquer dépassements locaux derrière bilans globaux,Kulionis & Pfister (2022)
+Downscaling national,National,Multi-limites,Identification d’indicateurs nationaux adaptés,"Méthodes encore incomplètes, besoin de critères d’équité",Parsonsová (2021)
+Analyse Chine provinces,Provincial,"Eau, terres",Prend en compte hétérogénéité écologique et efficacité locale,"Méthodes linéaires peu adaptées, résultats sensibles aux hypothèses",Tan et al. (2022)
+Étude Taiwan,National,"Climat, océans, cycles N&P, terres, eau",Propose indicateurs dynamiques adaptés au territoire,"Complexité élevée, dépend des choix de pondération","Huang, Hu & Kuo (2020)"
+Étude Heihe (Chine semi-aride),Écosystème régional,"Eau, biogéochimie",Combine données biophysiques et perceptions locales,"Fortement contextuel, difficilement généralisable",Teah et al. (2016)
+Approche urbaine,Ville,Multi-limites,Intègre besoins sociaux et contraintes biophysiques,"Conceptuel, manque d’indicateurs opérationnels",Hoornweg et al. (2016)
+Cities & Anthropocene,Ville,Multi-limites,Met en avant rôle clé des villes dans gouvernance PB,"Potentiel surestimé, dépend de la gouvernance locale",Aust & Nijman (2020)
+Quotas planétaires,Secteurs,Multi-limites (pressions),Convertit limites en quotas mesurables pour secteurs,Peut négliger aspects écosystémiques,Meyer & Newman (2020)
+Évaluation entreprises (pétrole/gaz),Entreprise,Multi-limites,Applique PB à la performance environnementale d’entreprises,"Encore au stade exploratoire, manque de standardisation",Leite & Hourneaux Jr (2024)
+ICT & reporting,Entreprise,Multi-limites,Propose des indicateurs proxy PB pour le reporting RSE,Ne permet pas encore de dire si l’entreprise est dans l’espace sûr,Erlandsson et al. (2022)
+Supply chains,Secteur/chaîne de valeur,Multi-limites,Optimisation supply chains avec contraintes PB,Aucune configuration totalement soutenable trouvée,Wheeler et al. (2020)
+Principes éthiques d’allocation,"Individus, secteurs","Climat, N&P","Propose méthodes d’allocation équitable (per capita, grandfathering, capacité à payer)",Résultats sensibles au choix du principe,Hjalsted et al. (2020)
+Empreintes & PB,Global/national,"Matière, carbone, eau","Propose intégration footprints (MF, eau, carbone) et PB",Approches encore à harmoniser,Fang (2020)
+Suivi Canada & Espagne,National & régional,"Carbone, eau, nutriments, terres, MF","Permet suivi temporel, relie stocks et flux biophysiques",Peu de régions dans l’espace sûr,Fanning & O’Neill (2016)
+Empreinte régionale entreprises,Entreprise/chaîne de valeur,"Carbone, eau, matière",Quantifie empreinte par région et propose objectifs de réduction,Données complexes à obtenir,Haubold & Zäh (2019)
+Footprints multi-sectoriels,Global/régional,15 empreintes (dont MF),Identifie secteurs moteurs du dépassement PB,"Complexité élevée, incertitudes sur certains flux (chimie)","Goodwin, Li & Wiedmann (2024)"
+National environmental footprints,National,Empreintes multiples,Transforme PB en allocations per capita/nationales,Problèmes de cohérence entre indicateurs,Frischknecht et al. (2016)
+Azote régionalisé,Régional/global,N agricole,Établit seuils régionaux d’azote tenant compte de la variabilité écologique,"Complexité forte, besoin de coordination internationale",Schulte-Uebbing et al. (2022)
